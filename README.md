@@ -27,7 +27,7 @@ The Calculator have features are as follows:
 # Usage
 Compile and run it
 <br>
-javac Calculator/*.java
+javac Calculator.java
 <br>
 Follow the menu options in the calculator.
 
