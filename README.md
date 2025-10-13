@@ -54,7 +54,7 @@ Choose a Mathematical operation:
 9)Percentage
 <br>
 
-1)Addition
+1) Addition (Type any integer value from 1-9).
 <br>
 Enter integer one:
 <br>
@@ -64,7 +64,7 @@ Enter integer two:
 <br>
 13
 <br>
-The Addition between 12 and 13 is: 25
+The Addition between 12 and 13 is: 25.
 
 
 
