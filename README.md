@@ -5,6 +5,7 @@ Addition,Substraction,Multiplication,Division,Modulus,Square,Cube,Average,Percen
 
 # Features:
 The Calculator have features are as follows:
+<br>
 1)Addition
 <br>
 2)Substraction
@@ -27,7 +28,7 @@ The Calculator have features are as follows:
 # Usage
 Compile and run it
 <br>
-javac Calculator.java
+========> javac Calculator.java
 <br>
 Follow the menu options in the calculator.
 
