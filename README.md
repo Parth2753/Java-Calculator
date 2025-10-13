@@ -1,7 +1,7 @@
 # Java Calculator
 This is a Calculator(written in Java) which is use to perform Mathematical Operations on numbers of your choice like:
 <br>
-Addition,Substraction,Multiplication,Divsion,Modulus,Square,Cube,Average,Percentage.
+Addition,Substraction,Multiplication,Division,Modulus,Square,Cube,Average,Percentage.
 
 # Features:
 The Calculator have features are as follows:
