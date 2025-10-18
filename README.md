@@ -53,7 +53,6 @@ Choose a Mathematical operation:
 <br>
 9)Percentage
 <br>
-
 1) Addition (Type any integer value from 1-9).
 <br>
 Enter integer one:
