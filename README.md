@@ -29,6 +29,7 @@ The Calculator have features are as follows:
 Compile and run it
 <br>
 <!-- Colorful terminal-style code block with Copy button -->
+<!-- Stylish colorful code block with Copy button -->
 <div style="
   position: relative;
   background-color: #0d1117;
@@ -38,14 +39,15 @@ Compile and run it
   color: #e6edf3;
   box-shadow: 0 4px 10px rgba(0,0,0,0.4);
   display: inline-block;
-  min-width: 350px;
+  min-width: 20px;
+  overflow-x: auto;
 ">
   <button
     onclick="navigator.clipboard.writeText('javac Calculator.java')"
     style="
       position: absolute;
-      top: 8px;
-      right: 8px;
+      top: 1px;
+      right: 4px;
       background: #21262d;
       color: #c9d1d9;
       border: 1px solid #30363d;
@@ -57,15 +59,17 @@ Compile and run it
     "
     onmouseover="this.style.background='#30363d'"
     onmouseout="this.style.background='#21262d'"
-  >
-    Copy code
   </button>
 
   <pre style="margin: 0; font-size: 16px;">
 <code>
-<span style="color:#00e676;">javac</span> <span style="color:#f8f8f2;">
+<span style="color:#00e676;">javac</span> <span style="color:#f8f8f2;">Calculator</span><span style="color:#f78c6c;">.java</span>
+</code>
+  </pre>
+</div>
 
 
+<br>
 Follow the menu options in the calculator.
 
 # Example:
@@ -89,7 +93,7 @@ Choose a Mathematical operation:
 <br>
 9)Percentage
 <br>
-1) Addition (Type any integer value from 1-9).
+1)Addition (Type any integer value from 1-9).
 <br>
 Enter integer one:
 <br>
