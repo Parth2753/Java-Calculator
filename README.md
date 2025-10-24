@@ -103,7 +103,7 @@ Enter integer two:
 <br>
 13
 <br>
-The Addition between 12 and 13 is: 25.
+The Addition between 12 and 13 is: 25
 
 
 
