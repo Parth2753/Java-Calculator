@@ -28,17 +28,17 @@ The Calculator have features are as follows:
 # Usage
 Compile and run it
 <br>
-<!-- Single-line code block with copy button -->
+<!-- Colorful terminal-style code block with Copy button -->
 <div style="
   position: relative;
   background-color: #0d1117;
-  border-radius: 8px;
+  border-radius: 10px;
   padding: 1rem 1.2rem;
   font-family: 'Courier New', monospace;
   color: #e6edf3;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
   display: inline-block;
-  min-width: 320px;
+  min-width: 350px;
 ">
   <button
     onclick="navigator.clipboard.writeText('javac Calculator.java')"
@@ -50,10 +50,10 @@ Compile and run it
       color: #c9d1d9;
       border: 1px solid #30363d;
       border-radius: 6px;
-      padding: 3px 8px;
+      padding: 4px 8px;
       font-size: 12px;
       cursor: pointer;
-      transition: background 0.2s;
+      transition: all 0.2s ease;
     "
     onmouseover="this.style.background='#30363d'"
     onmouseout="this.style.background='#21262d'"
@@ -61,10 +61,10 @@ Compile and run it
     Copy code
   </button>
 
-  <pre style="margin: 0;"><code>
-<span style="color:#79c0ff;">javac</span> <span style="color:#c9d1d9;">Calculator</span><span style="color:#ff7b72;">.java</span>
-  </code></pre>
-</div>
+  <pre style="margin: 0; font-size: 16px;">
+<code>
+<span style="color:#00e676;">javac</span> <span style="color:#f8f8f2;">
+
 
 Follow the menu options in the calculator.
 
