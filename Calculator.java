@@ -91,15 +91,19 @@ public class Calculator{
             System.out.println("Enter a number: ");
             int an = sc.nextInt();
             System.out.println("Choose the following in which you want the percentage in terms of");
-            System.out.println(" 1)10% of your number\n 2)50% of your number\n 3)30% of your number");
+            System.out.println(" 1)10% of your number\n 2)50% of your number\n 3)30% of your number\n 4)20% of your number\n 5)60% of your number");
             int xy = sc.nextInt();
             int yu = 10;
             int gh = 50;
             int hg = 30;
+            int fg = 20;
+            int fit = 60;
             int ui = 100;
                     float per1 = (an * yu) / 100f;
                     float per2 = (an * gh) / 100f;
                     float per3 = (an * hg) / 100f;
+                    float per4 = (an * fg) / 100f;
+                    float per5 = (an * fit) / 100f;
                     if(xy == 1){
                         System.out.println("10% of " + an + " is: " + per1);
                     }
@@ -108,6 +112,12 @@ public class Calculator{
                     }
                     else if(xy == 3){
                         System.out.println("30% of " + an + " is: " + per3);
+                    } 
+                    else if(xy == 4){
+                        System.out.println("20% of" + an + " is: " + per4);
+                    }
+                    else if(xy == 5){
+                        System.out.println("60% of" + an + " is: " + per5);
                     }
                     else{
                         System.out.println("Error: Invalid option selected.");
@@ -119,4 +129,5 @@ public class Calculator{
                     break;
                 }
             }
+
         }
