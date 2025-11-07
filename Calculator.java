@@ -4,7 +4,7 @@ public class Calculator{
         Scanner sc = new Scanner(System.in);
         System.out.println("========================================");
         
-        System.out.println("\t         🧮JAVA CALCULATOR           ");
+        System.out.println("\t       JAVA CALCULATOR           ");
         
         System.out.println("========================================");
         System.out.println(" Choose the Mathematical Operations that you want to use for your numbers:");
@@ -134,4 +134,5 @@ public class Calculator{
             }
 
         }
+
 
