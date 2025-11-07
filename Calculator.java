@@ -2,9 +2,12 @@ import java.util.Scanner;
 public class Calculator{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to Fubu Calculator, May i please know your name:");
-        String x = sc.nextLine();
-        System.out.println("Hello!! " +x+ " Choose the Mathematical Operations that you want to use for your numbers:");
+        System.out.println("========================================");
+        
+        System.out.println("\t         🧮JAVA CALCULATOR           ");
+        
+        System.out.println("========================================");
+        System.out.println(" Choose the Mathematical Operations that you want to use for your numbers:");
         System.out.println(" 1)Addition\n 2)Substraction\n 3)Multiplication\n 4)Division\n 5)Modulus\n 6)Square\n 7)Cube\n 8)Average\n 9)Percentage");
         int z = sc.nextInt();
         switch(z)
@@ -131,3 +134,4 @@ public class Calculator{
             }
 
         }
+
