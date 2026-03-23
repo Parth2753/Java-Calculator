@@ -1,35 +1,35 @@
-## 🧮 Java Calculator
+##  Java Calculator
 
 Welcome to **Java Calculator**, a simple yet powerful **console-based calculator** built using **pure Java**.  
 It supports multiple arithmetic operations and is designed for beginners learning Java fundamentals.
 
 ---
 
-## ✨ Features
+##  Features
 
-✅ Addition  
-✅ Subtraction  
-✅ Multiplication  
-✅ Division  
-✅ Modulus (Remainder)  
-✅ Square  
-✅ Cube  
-✅ Average  
-✅ Percentage  
+Addition  
+Subtraction  
+Multiplication  
+Division  
+Modulus (Remainder)  
+Square  
+Cube  
+Average  
+Percentage  
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
-### 🧰 Prerequisites
+### Prerequisites
 Make sure you have the following installed:
 - **Java JDK 8 or above**
 - A code editor or IDE like VS Code, IntelliJ IDEA, or Eclipse
 
 ---
 
-## 🌱 Why This Project?
-💡 “Small steps lead to big learning.”
+## Why This Project?
+“Small steps lead to big learning.”
 <br>
 This was my first GitHub Java project, created to practice:
 <br>
@@ -43,17 +43,15 @@ Console interaction
 
 ---
 
-## 🚧 Future Enhancements
+## Future Enhancements
 <br>
-✨ Support for floating-point numbers
+Support for floating-point numbers
 <br>
-✨ Add error handling (like division by zero)
+Add error handling (like division by zero)
 <br>
-✨ Create a Graphical User Interface (GUI) version
+Add scientific operations (roots, powers, logs)
 <br>
-✨ Add scientific operations (roots, powers, logs)
-<br>
-✨ Include unit tests for validation
+Include unit tests for validation
 
 ---
 
@@ -66,21 +64,21 @@ Feel free to:
 <br>
 🍴 Fork it
 <br>
-💬 Open an issue
+Open an issue
 
 ---
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 <br>
 git clone https://github.com/Parth2753/Java-Calculator.git
 
 ---
 
-## 💬 Coder
-👤 Parth Rohilla
+## Coder
+Parth Rohilla
 <br>
 “Code. Compile. Create. Repeat.”
 <br>
-📦 GitHub Profile-https://github.com/Parth2753
-🔧 Submit a pull request
+GitHub Profile-https://github.com/Parth2753
+Submit a pull request
